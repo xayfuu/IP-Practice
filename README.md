@@ -1,3 +1,5 @@
 # IP Practice
 
-Small program to print Local IP, Network IP, Broadcast IP and Netmask (IPv4 & Windows only).
+C and networking practice.
+
+Prints local IP, network IP, broadcast IP and netmask (IPv4 & Windows only).
